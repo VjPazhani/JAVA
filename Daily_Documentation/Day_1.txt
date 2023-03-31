@@ -1,0 +1,14 @@
+First go through the JAVA_documentation for basic
+
+Things That i learned about Java :
+ 
+ * A Class always have an Uppercase letter.
+ * File name should same as class name.
+ * there is types for java output : 1.println() Method 2.print() Method
+ * The main difference between println and print is that the print() does not inser the new at the end of sentence.
+ ---try some basic example basic understanding---.
+ * errors that occur when running the simple java program
+    * write correctly the public static void main(String args[])
+    --Note Write capital S for String--
+    * write the print statement correctly System.out.println()
+    --Note write capital Starting letter

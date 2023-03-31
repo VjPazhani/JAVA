@@ -1,0 +1,28 @@
+Java Data Types
+
+As the name suggests, data types specify the type of data that can be 
+stored inside variables in Java.
+
+Java is a statically-typed language. This means that all variables must be
+declared before they can be used.
+
+There are 8 primitive datatypes :
+
+        Boolean
+
+        byte
+
+        short
+
+        int
+
+        long
+
+        double
+
+        float
+
+        charecter
+
+        string
+        

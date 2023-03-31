@@ -1,0 +1,25 @@
+VARIABLE :
+    There are 4 types of variables in Java programming language:
+
+        Instance Variables (Non-Static Fields)
+        Class Variables (Static Fields)
+        Local Variables
+        Parameters
+
+Java literals
+
+    Literals are data used for representing fixed values. 
+    
+    They can be used directly in the code.
+
+        TYPES OF LITERALS :
+
+            Boolean
+
+            Integer
+            
+            Floating-Point
+
+            Charecter
+            
+            String
