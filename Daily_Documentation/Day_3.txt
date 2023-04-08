@@ -1,0 +1,11 @@
+I got question that is how to get multiple user input from java
+Then I Start know :
+    if you create a scanner object and it can be used for multiple variables to get user input.
+        for example this is the way for creating a scanner object
+            Scanner Object_name = new Scanner(System.in);
+            and get user input from scanner object
+                int a = Object_name.nextInt();
+                 Object_name.close();
+                    suppose u want multiple user input in the same program u can use that scanner object
+                        int b = Object_name.nextInt();
+                        int c = Object_name.nextInt();

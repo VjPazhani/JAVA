@@ -1,0 +1,4 @@
+JAVA Input:
+    There are different types for get from user
+    for now Use object of Scanner class example : import java.util.Scanner -> here util is package and scanner is object
+    to know about the scanner see the example of flow control
